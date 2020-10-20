@@ -1,0 +1,10 @@
+1.PUT THIS attendance_V1 in the directory containing your zoom folder
+2.install the python .exe setup
+3. while installing python add pip to path
+4. after installing run "run_only_first_time_after_installing.bat" just once after installing
+5.add your mail and password in mail_pass.txt with mailfirst seprated by a comman and password next dont add anything else like spaces and enter or tab ...etc
+6.never modifie the location or name of anyfile
+
+
+# to use just open run_me.py file 
+contacts : mohammadabdulrehman739@gmail.com 
